@@ -69,7 +69,4 @@ plt.ylabel('TPR')
 plt.legend()
 plt.show()
 
-from google.colab import files
-
-uploaded = files.upload()
 
